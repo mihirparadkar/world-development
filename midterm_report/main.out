@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Project Objective}{}% 1
+\BOOKMARK [1][-]{section.2}{Approach}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Dataset Description}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Data visualization}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Feature Selection and Extraction}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Reshaping}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Removing Missing Columns}{subsection.2.3}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Intended Analyses}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Validation}{}% 9
+\BOOKMARK [1][-]{section.4}{Future steps}{}% 10
